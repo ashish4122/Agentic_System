@@ -1,0 +1,42 @@
+3 4
+l l E E
+E E E E
+E E L L
+
+4 4
+l l E E
+E E E E
+E B E L
+E B E L
+
+4 4
+l l E E
+E B E B
+B B B B
+E E L L
+
+5 5
+l l l E E
+E E E E E
+E B E B E
+E E E E L
+E E E E L
+E E E E L
+
+5 3
+l E E
+l B E
+E E E
+E B L
+E B L
+
+2 2
+l l
+L L
+
+5 5
+l l E E E
+E B E B E
+E E E E E
+E B E B E
+E E E L L
