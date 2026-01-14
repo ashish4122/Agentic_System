@@ -2,7 +2,7 @@
 
 ## 📖 Description
 
-**Multi-Agent Programming Problem Solver**
+**Multi-Agent Problem Solving System**
 
 The system employs three specialized AI agents working in concert:
 - **TesterAgent** generates small test cases
